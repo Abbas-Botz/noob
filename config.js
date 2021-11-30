@@ -1,26 +1,26 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
+global.linkGC = ['https://chat.whatsapp.com/D9049qvk78Q8Uu32RDKidl', 'https://chat.whatsapp.com/D9049qvk78Q8Uu32RDKidl']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '62895323241456': { // put your number here
-    name: 'ɪɴɪ ᴅᴀғʏ',
+  '994404766156': { // put your number here
+    name: 'Abbas Botz',
     isDev: false, // if true this number will send if bot have bug and developer mode true
     isReport: false, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6281379753850': { // put your number here
+  '994404766156': { // put your number here
     isDev: true, // if true this number will ᴅᴀғʏ ɴɪʜ ʙᴀɴɢ if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: false // if true this number will send if user use command /owner or /creator
   },
-  '62895335209060': { // put your number here
-    name: 'ᴅɪᴏ ɢᴀɴᴢ',
+  '994404766156': { // put your number here
+    name: 'Abbas Botz',
     isDev: false, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: false // if true this number will send if user use command /owner or /creator
   },
-  '60173227619': {
-    name: 'ɪᴢᴢᴀʜ ᴄᴀᴍᴛɪᴋ',
+  '994404766156': {
+    name: 'Abbas Botz',
     isReport: true, // if true this number will send if user use command /report or /join
   },
   '6283144078722': {
@@ -28,7 +28,7 @@ global.Owner = {
   },
   '13479805233': {} // ignore if you don't want anything, like name dll
 }
-global.mods = ['62895323241456'] // Want some help?
+global.mods = ['994404766156'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -53,8 +53,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'wa.me/6295323241456'
-global.author = 'ɪɴɪ ᴅᴀғʏ'
+global.packname = 'wa.me/994404766156'
+global.author = 'Abbas Botz'
 
 global.multiplier = 39 // The higher, The harder levelup
 
